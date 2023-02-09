@@ -11,11 +11,13 @@ In this paper, I propose a theoretically justified and practically applicable ap
 
 ## Background Project
 
-## Petunjuk Pengerjaan
-#### Langkah #1 Pilih topik & kategori
-#### Langkah #2 Pilih objek dan cari referensi/related wokrs
-#### Langkah #3 Pilih dataset
-#### Langkah #4 Mulai eksperimen dan memodelkan
+## Work Instructions
+#### Step #1 Select a topic & category
+#### Step #2 Select the object and look for reference/related wokrs
+#### Step #3 Select dataset
+#### Step #4 Start the experiment and model
+
+
 ## Outcome Project
 #### Code
 #### Easy report 
